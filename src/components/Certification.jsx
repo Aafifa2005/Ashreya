@@ -6,7 +6,7 @@ export default function Certification() {
       title: "Queen's Commonwealth Essay Competition 2021",
       issuer: "Royal Commonwealth Society",
       year: 2021,
-      pdf: "/images/Aafifa_Akhter_bronze.pdf",
+      pdf: "/images/Aafifa_Akhter_Bronze.pdf",
     },
     {
       title: "AI+ Prompt Engineer Level 1\u2122",
