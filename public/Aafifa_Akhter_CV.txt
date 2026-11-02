@@ -1,0 +1,25 @@
+Aafifa Akhter
+Front End Developer
+City, Country | aafifa@example.com | +1 234 567 890
+
+SUMMARY
+Passionate tech enthusiast with a strong foundation in diverse technical domains,
+experienced in building responsive web applications and contributing to collaborative
+projects.
+
+SKILLS
+HTML5, CSS3, JavaScript, React.js, Node.js, Git, Responsive Design, REST APIs
+
+EXPERIENCE
+Front End Developer — Tech Solutions (2024 - Present)
+- Developed responsive user interfaces using React.js and modern CSS
+- Collaborated with cross-functional teams to ship features
+- Optimized application performance and accessibility
+
+EDUCATION
+Bachelor of Technology in Computer Science — University (2023)
+
+CERTIFICATIONS
+- Responsive Web Design — freeCodeCamp (2024)
+- JavaScript Algorithms and Data Structures — freeCodeCamp (2024)
+- Front End Development Libraries — freeCodeCamp (2025)
